@@ -13,7 +13,7 @@ This is a guessing game in which the computer creates a random number that the u
 
 ## Can I contribute?
 
-Yes, if you wish you can definitely contribute but keep in mind that ***this is a program where computer generates random number for the user to guess and not the vice versa***. 
+Yes, if you wish you can definitely contribute but keep in mind that ***this is a program where computer generates random number for the user to guess and not the vice versa***. If you are looking for the project in which the user has the number and the computer guesses it... then go [here](https://github.com/itsabhianant/guessing_game)
 
 ---
 
