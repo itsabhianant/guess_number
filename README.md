@@ -5,8 +5,8 @@ This is a guessing game in which the computer creates a random number that the u
 ---
 ## This repo consists of two different guess game
 
-1) [Written in Python]()
-2) [Written in C++]()
+1) [Written in Python](https://github.com/itsabhianant/guess_number/tree/master/py_guess)
+2) [Written in C++](https://github.com/itsabhianant/guess_number/tree/master/cpp_guess)
 
 ---
 ## Can I contribute?
